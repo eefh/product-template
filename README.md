@@ -1,1 +1,1 @@
-# product-template
+Product Template
